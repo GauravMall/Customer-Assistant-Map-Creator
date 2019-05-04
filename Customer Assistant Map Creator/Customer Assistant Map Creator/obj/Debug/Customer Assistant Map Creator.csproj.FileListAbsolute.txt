@@ -1,0 +1,30 @@
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\bin\Debug\Customer Assistant Map Creator.exe.config
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\bin\Debug\Customer Assistant Map Creator.exe
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\bin\Debug\Customer Assistant Map Creator.pdb
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer Assistant Map Creator.csprojAssemblyReference.cache
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer_Assistant_Map_Creator.Form1.resources
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer_Assistant_Map_Creator.Properties.Resources.resources
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer Assistant Map Creator.csproj.GenerateResource.cache
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer Assistant Map Creator.csproj.CoreCompileInputs.cache
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer Assistant Map Creator.exe
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer Assistant Map Creator.pdb
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer_Assistant_Map_Creator.Development.Other_Forms.About.resources
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer_Assistant_Map_Creator.Development.Other_Forms.AddVertex.resources
+C:\Users\tarlo\Desktop\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer_Assistant_Map_Creator.Development.Other_Forms.PreviewForm.resources
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\bin\Debug\Customer Assistant Map Creator.exe.config
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\bin\Debug\Customer Assistant Map Creator.exe.manifest
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\bin\Debug\Customer Assistant Map Creator.application
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\bin\Debug\Customer Assistant Map Creator.exe
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\bin\Debug\Customer Assistant Map Creator.pdb
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer_Assistant_Map_Creator.Form1.resources
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer_Assistant_Map_Creator.Development.Other_Forms.About.resources
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer_Assistant_Map_Creator.Development.Other_Forms.AddVertex.resources
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer_Assistant_Map_Creator.Development.Other_Forms.PreviewForm.resources
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer_Assistant_Map_Creator.Properties.Resources.resources
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer Assistant Map Creator.csproj.GenerateResource.cache
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer Assistant Map Creator.csproj.CoreCompileInputs.cache
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer Assistant Map Creator.exe.manifest
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer Assistant Map Creator.application
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer Assistant Map Creator.exe
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer Assistant Map Creator.pdb
+C:\Users\tarlo\Desktop\Customer Assistant Project\Software\Customer Assistant Map Creator\Customer Assistant Map Creator\obj\Debug\Customer Assistant Map Creator.csprojAssemblyReference.cache
